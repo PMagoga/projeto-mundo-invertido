@@ -1,5 +1,7 @@
 # 🌌 Mundo Invertido | Semana Front-end DIO
 
+[Mundo Invertido](https://pmagoga.github.io/projeto-mundo-invertido/)
+
 Um projeto desenvolvido durante a **Semana Front-end da DIO**, inspirado na série **Stranger Things**.  
 O objetivo é praticar os fundamentos de **HTML**, **CSS** e **JavaScript** através da criação de uma página interativa que permite ao usuário alternar entre o "mundo normal" e o "mundo invertido".
 
